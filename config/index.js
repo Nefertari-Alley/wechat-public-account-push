@@ -44,19 +44,19 @@ export const config = {
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "老婆1", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
+      name: "小陈", 
+      id: "oWn1U6D0gREQCg50I_c8rIr_Dabg",
+      useTemplateId: "OHP3OlTIrxaQ4vUpdP5fjqymuKjLU7v2Zd2coKUOnwY",
+      province: "陕西",
+      city: "咸阳",
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
+      name: "徐先生",
+      id: "oWn1U6Obc3pyBvT8ZPlQAMIBfkF0",
+      useTemplateId: "OHP3OlTIrxaQ4vUpdP5fjqymuKjLU7v2Zd2coKUOnwY",
+      province: "陕西",
+      city: "西安",
       openUrl: "https://wangxinleo.cn"
     }, 
     {
